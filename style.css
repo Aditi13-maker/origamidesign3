@@ -1,0 +1,70 @@
+h1{color:#6711f3}
+ /**{border:solid black}*/
+
+ .header{
+    border-radius:5px;
+    background-color: #000000;
+    display :flex;
+    justify-content:space-between;
+}
+.bodyback{
+ 
+    background-color:#30302F;
+    
+}
+.menu{
+    display :flex;
+    justify-content:space-between;
+    background-color:#000000;
+    padding:0.5px;
+    font-size:10px;
+    font-family:sans-serif;
+    font-weight:400;
+    color:#ffffff;
+}
+body{
+    background-color:#cccccc;
+    color:#ffffff ;
+}
+.footer{
+    display:flex;
+    justify-content:flex-end;
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-between;  
+}
+.grid img{
+   border:2px #000000;
+   border-radius:50px;
+}
+.origami {
+    border-radius:50px;
+    margin-left:50px;
+    margin-bottom: 50px;
+    background-color:#ffffff;
+    color:#000000;
+    width:310px;
+    font-family:fantasy;
+}
+
+.origami1 {
+    border-radius:10px;
+    margin-left:10px;
+    margin-bottom: 10px;
+    background-color:#ffffff;
+    color:#000000;
+    width:310px;
+    font-family:fantasy;
+}
+
+.origami2 {
+    border-radius:10px;
+    margin-right:100px;
+    margin-bottom: 100px;
+    background-color:#ffffff;
+    color:#000000;
+    width:310px;
+    font-family:fantasy;
+}
